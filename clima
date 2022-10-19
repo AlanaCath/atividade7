@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/>
+    <title> Notas </title>
+</head>
+<header><h1>Climas de hoje pelo Brasil</h1></header>
+<body>
+    <table border="1">
+    </tr>
+        <th>Cidade</th>
+        <th>Min</th>
+        <th>Máx</th>
+    </tr>
+    <tr>
+        <td> <a href="https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"> São Paulo - SP </a></td>
+        <td>17°</td>
+        <td>25°</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.tempo.com/recife.htm"> Recife - PE </a></td>
+        <td>24°</td>
+        <td>27°</td>
+    
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/natal.htm"> Natal - RN</a></td>
+        <td>24°</td>
+        <td>29°</td>
+
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/rio-de-janeiro_rio-de-janeiro-l12987.htm"> Rio de janeiro - RJ</td>
+        <td>21°</td>
+        <td>27°</td>
+        
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/salvador.htm"> Salvador - BA</td>
+        <td>25°</td>
+        <td>27°</td>
+        
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/brasilia.htm"> Brasilia - DF </td>
+        <td>19°</td>
+        <td>32°</td>
+       
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/belo-horizonte.htm"> Belo horizonte - MG </td>
+        <td>17°</td>
+        <td>29°</td>
+        
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/curitiba.htm"> Curitiba - PR </td>
+        <td>14°</td>
+        <td>24°</td>
+        
+    </tr>
+    <tr>
+        <td><a hRef="https://www.tempo.com/manaus.htm"> Manaus - AM </td>
+        <td>24°</td>
+        <td>31°</td>
+        
+    </tr>
+    <tr>
+        <td><a href="https://www.tempo.com/joao-pessoa.htm"> João Pessoa - PB</td>
+        <td>23°</td>
+        <td>28°</td>
+        
+    </tr>
+    
+</table>
+    
+</body>
